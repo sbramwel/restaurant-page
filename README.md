@@ -9,4 +9,5 @@ Link to project: https://sbcusinerestaurant.netlify.app/
 **Tech used:** HTML, CSS, JavaScript, Bootstrap
 
 ## Lessons Learned:
-Color schemes like orange and white stand out and are more ascethically pleasing. Having the right size photos of food images as well as vibrant images of food can draw a customer in.
+Color schemes like orange and white stand out and are more  ascetically  pleasing. Having the right size photos of food images as well as vibrant images of food can draw a customer in.
+
